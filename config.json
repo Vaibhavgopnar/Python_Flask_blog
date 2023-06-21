@@ -1,0 +1,21 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:V2169#gpatil@localhost/codingthunder",
+        "prod_uri":"mysql://root:V2169#gpatil@localhost/codingthunder",
+        "tw_url":"https://twitter.com/codingthunder",
+        "fb_url":"https://facebook.com/codingthunder",
+        "gh_url":"https://github.com/codingthunder",
+        "blog_name":"Coding Thunder",
+        "gmail-user":"vaibhavpatil7754@gmail.com",
+        "gmail-password":"gmailpassword",
+        "about_text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe nostrum ullam eveniet pariatur voluptates odit, fuga atque ea nobis sit soluta odio, adipisci quas excepturi maxime quae totam ducimus consectetur? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius praesentium recusandae illo eaque architecto error, repellendus iusto reprehenderit, doloribus, minus sunt. Numquam at quae voluptatum in officia voluptas voluptatibus, minus!",
+        "no_of_posts":2,
+        "login_image":"login_image.svg",
+        "admin_user":"vaibhav",
+        "admin_password":"subscribenow",
+        "upload_location":"C:\\Python Files\\Python Flask\\static"
+
+    }
+}
